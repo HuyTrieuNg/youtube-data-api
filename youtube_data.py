@@ -113,7 +113,7 @@ def get_video_comments(youtube, video_id, max_results=100):
 
 if __name__ == "__main__":
     # Thực hiện crawl dữ liệu
-    keyword = "vật vờ studio"
+    keyword = "cktg"
     print(f"Đang tìm kiếm video với từ khóa: {keyword}")
     
     # Bước 1: Search videos
